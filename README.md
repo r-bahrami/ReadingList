@@ -17,3 +17,5 @@ Table of Contents
 and on-manifold optimization](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.5407&rep=rep1&type=pdf)
 - [A micro Lie theory
 for state estimation in robotics](https://arxiv.org/abs/1812.01537)
+
+### [Probabilistic Robotics] (https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf, http://www.probabilistic-robotics.org/)
