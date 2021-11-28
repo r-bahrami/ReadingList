@@ -18,6 +18,8 @@ and on-manifold optimization](https://citeseerx.ist.psu.edu/viewdoc/download?doi
 - [A micro Lie theory
 for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 - [A comparison of transforms and quaternions in robotics](https://ieeexplore.ieee.org/document/12172?arnumber=12172)
+- [Lie theory in robotics](https://norlab.ulaval.ca/research/LieCheatsheet/)
+
 
 ### 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
