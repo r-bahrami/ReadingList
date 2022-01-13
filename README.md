@@ -27,3 +27,4 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 ### LaTeX
 - [symbols](https://docs.latexbase.com/symbols/)
+- [math fonts](https://tex.stackexchange.com/questions/58098/what-are-all-the-font-styles-i-can-use-in-math-mode)
