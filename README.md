@@ -4,6 +4,7 @@ Table of Contents
 
 - [Introduction to](#introduction-to-)
 - [Robotics](#Robotics)
+- [LaTeX](#LaTeX)
 
 
 - Please check ...
@@ -23,3 +24,6 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 ### 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
+
+### LaTeX
+- [symbols](https://docs.latexbase.com/symbols/)
