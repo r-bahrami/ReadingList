@@ -2,14 +2,11 @@
 
 Table of Contents
 
-- [Introduction to](#introduction-to-)
+
 - [Robotics](#Robotics)
+- [Good reads](#good-reads)
 - [LaTeX](#LaTeX)
 
-
-- Please check ...
-
-## Introduction to
 
 ## Robotics
 
@@ -25,6 +22,9 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 ### 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
 
-### LaTeX
+## Good reads
+- [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf)
+
+## LaTeX
 - [symbols](https://docs.latexbase.com/symbols/)
 - [math fonts](https://tex.stackexchange.com/questions/58098/what-are-all-the-font-styles-i-can-use-in-math-mode)
