@@ -3,9 +3,9 @@
 Table of Contents
 
 
-- [Robotics](#Robotics)
+- [Robotics](#robotics)
 - [Good reads](#good-reads)
-- [LaTeX](#LaTeX)
+- [LaTeX](#latex)
 
 
 ## Robotics
@@ -23,7 +23,8 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
 
 ## Good reads
-- [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf)
+- [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf) [I. Markovsky, Signal processing, Elsevier 2007] 
+- [Generalized inversion of modified matrices](http://apmath.spbu.ru/cnsa/pdf/article/Meyer%20Generalized%20Inversion%20of%20Modified%20Matrices.pdf) [CD Meyer, Jr ,SIAM 1973]
 
 ## LaTeX
 - [symbols](https://docs.latexbase.com/symbols/)
