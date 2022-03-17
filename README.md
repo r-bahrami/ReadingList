@@ -4,6 +4,7 @@ Table of Contents
 
 
 - [Robotics](#robotics)
+- [ML](#ml)
 - [Good reads](#good-reads)
 - [LaTeX](#latex)
 
@@ -21,6 +22,10 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 ### 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
+
+## ML
+
+- [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [Pedro Domingos, 2012]
 
 ## Good reads
 - [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf) [I. Markovsky, Signal processing, Elsevier 2007] 
