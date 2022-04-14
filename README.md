@@ -33,6 +33,11 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 - [Explicit computation of the sampling period in emulation of controllers for nonlinear sampled-data systems](https://ieeexplore.ieee.org/document/4796269) [IEEE TAC '09]
 
+- [Systematic estimation of state noise statistics for extended Kalman filters](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.690460209)
+- [A generalized autocovariance least-squares method for Kalman filter tuning](https://www.sciencedirect.com/science/article/pii/S0959152407001631) [Elsevier Jour. of Process Control '08]
+- [Dual state–parameter estimation of hydrological models using ensemble Kalman filter](https://www.sciencedirect.com/science/article/abs/pii/S0309170804001605)
+
+
 ## Good reads
 - [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf) [I. Markovsky, Signal processing, Elsevier 2007] 
 - [Generalized inversion of modified matrices](http://apmath.spbu.ru/cnsa/pdf/article/Meyer%20Generalized%20Inversion%20of%20Modified%20Matrices.pdf) [CD Meyer, Jr ,SIAM 1973]
