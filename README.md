@@ -28,6 +28,7 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 ## ML
 
 - [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [Pedro Domingos, 2012]
+- How to measure the similarity of ML models? [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j) [N. Papernot, ICLR '22]
 
 ## Control
 
