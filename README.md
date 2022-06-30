@@ -37,6 +37,7 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 - [Systematic estimation of state noise statistics for extended Kalman filters](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.690460209)
 - [A generalized autocovariance least-squares method for Kalman filter tuning](https://www.sciencedirect.com/science/article/pii/S0959152407001631) [Elsevier Jour. of Process Control '08]
 - [Dual state–parameter estimation of hydrological models using ensemble Kalman filter](https://www.sciencedirect.com/science/article/abs/pii/S0309170804001605)
+- [Norm-Constrained Kalman Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0005109814003082) [Automatica, 2014]
 
 
 ## Good reads
