@@ -4,9 +4,9 @@ Table of Contents
 
 
 - [Robotics](#robotics)
-- [ML](#ml)
+- [Machine Learning](#machine-learning)
 - [Control](#control)
-- [Good reads](#good-reads)
+- [Applied mathematics](#applied-mathematics)
 - [LaTeX](#latex)
 
 
@@ -25,7 +25,9 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 ### 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
 
-## ML
+## Machine Learning 
+
+#Computational Learning Theory #Interpretability
 
 - [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [Pedro Domingos, 2012]
 - How to measure the similarity of ML models? [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j) [N. Papernot, ICLR '22]
