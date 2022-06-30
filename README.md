@@ -40,7 +40,7 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 - [Norm-Constrained Kalman Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0005109814003082) [Automatica, 2014]
 
 
-## Good reads
+## Applied mathematics
 - [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf) [I. Markovsky, Signal processing, Elsevier 2007] 
 - [Generalized inversion of modified matrices](http://apmath.spbu.ru/cnsa/pdf/article/Meyer%20Generalized%20Inversion%20of%20Modified%20Matrices.pdf) [CD Meyer, Jr ,SIAM 1973]
 
