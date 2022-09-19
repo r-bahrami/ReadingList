@@ -34,14 +34,24 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 ## Control
 
+### sampled-data systems 
 - [Explicit computation of the sampling period in emulation of controllers for nonlinear sampled-data systems](https://ieeexplore.ieee.org/document/4796269) [IEEE TAC '09]
 
+### PE-like condition for consensus 
+
+- [Distributed Cooperative Adaptive Identification and Control for a Group of Continuous-Time Systems With a Cooperative PE Condition via Consensus](https://ieeexplore.ieee.org/abstract/document/6578135) [IEEE TAC 2014]
+
+- [Global Consensus of Time-Varying Multiagent Systems Without
+Persistent Excitation Assumptions](https://ieeexplore.ieee.org/document/8283714) [IEEE TAC 2018]
+
+### Kalmans
+
+- [Kalman filtering with intermittent observations](https://ieeexplore.ieee.org/abstract/document/1333199) [IEEE TAC '04]
 - [Systematic estimation of state noise statistics for extended Kalman filters](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.690460209)
 - [A generalized autocovariance least-squares method for Kalman filter tuning](https://www.sciencedirect.com/science/article/pii/S0959152407001631) [Elsevier Jour. of Process Control '08]
 - [Dual state–parameter estimation of hydrological models using ensemble Kalman filter](https://www.sciencedirect.com/science/article/abs/pii/S0309170804001605)
 - [Norm-Constrained Kalman Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0005109814003082) [Automatica, 2014]
-
-
+ 
 ## Applied mathematics
 - [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf) [I. Markovsky, Signal processing, Elsevier 2007] 
 - [Generalized inversion of modified matrices](http://apmath.spbu.ru/cnsa/pdf/article/Meyer%20Generalized%20Inversion%20of%20Modified%20Matrices.pdf) [CD Meyer, Jr ,SIAM 1973]
