@@ -52,8 +52,9 @@ Persistent Excitation Assumptions](https://ieeexplore.ieee.org/document/8283714)
 - [Dual state–parameter estimation of hydrological models using ensemble Kalman filter](https://www.sciencedirect.com/science/article/abs/pii/S0309170804001605)
 - [Norm-Constrained Kalman Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0005109814003082) [Automatica, 2014]
 
-### Linear Systems
+### (Structured) Linear Systems
 - [Generic properties and control of linear structured systems: a survey](https://www.sciencedirect.com/science/article/pii/S0005109803001043) [Automatica '03]
+- [The generic number of invariant zeros of a structured linear system](https://epubs.siam.org/doi/abs/10.1137/S0363012996310119) [SIAM 1999]
  
 ## Applied mathematics
 - [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf) [I. Markovsky, Signal processing, Elsevier 2007] 
