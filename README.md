@@ -29,7 +29,7 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 #Computational Learning Theory #Interpretability
 
-- [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [Pedro Domingos, 2012]
+- [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [Pedro Domingos, '12]
 - How to measure the similarity of ML models? [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j) [N. Papernot, ICLR '22]
 
 ## Control
@@ -39,7 +39,7 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 ### PE-like condition for consensus 
 
-- [Distributed Cooperative Adaptive Identification and Control for a Group of Continuous-Time Systems With a Cooperative PE Condition via Consensus](https://ieeexplore.ieee.org/abstract/document/6578135) [IEEE TAC 2014]
+- [Distributed Cooperative Adaptive Identification and Control for a Group of Continuous-Time Systems With a Cooperative PE Condition via Consensus](https://ieeexplore.ieee.org/abstract/document/6578135) [IEEE TAC '14]
 
 - [Global Consensus of Time-Varying Multiagent Systems Without
 Persistent Excitation Assumptions](https://ieeexplore.ieee.org/document/8283714) [IEEE TAC 2018]
@@ -50,7 +50,13 @@ Persistent Excitation Assumptions](https://ieeexplore.ieee.org/document/8283714)
 - [Systematic estimation of state noise statistics for extended Kalman filters](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.690460209)
 - [A generalized autocovariance least-squares method for Kalman filter tuning](https://www.sciencedirect.com/science/article/pii/S0959152407001631) [Elsevier Jour. of Process Control '08]
 - [Dual state–parameter estimation of hydrological models using ensemble Kalman filter](https://www.sciencedirect.com/science/article/abs/pii/S0309170804001605)
-- [Norm-Constrained Kalman Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0005109814003082) [Automatica, 2014]
+- [Norm-Constrained Kalman Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0005109814003082) [Automatica '14]
+
+### Nonlinear observers
+
+- [On State Observers for Nonlinear Systems: A New Design and a Unifying Framework](https://ieeexplore.ieee.org/abstract/document/8361887) [IEEE TAC '19]
+- [On LMI conditions to design observers for Lipschitz nonlinear systems](https://www.sciencedirect.com/science/article/abs/pii/S0005109812005651) (Automatica '13)
+
 
 ### (Structured) Linear Systems
 - [Generic properties and control of linear structured systems: a survey](https://www.sciencedirect.com/science/article/pii/S0005109803001043) [Automatica '03]
