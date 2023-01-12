@@ -56,6 +56,7 @@ Persistent Excitation Assumptions](https://ieeexplore.ieee.org/document/8283714)
 
 - [On State Observers for Nonlinear Systems: A New Design and a Unifying Framework](https://ieeexplore.ieee.org/abstract/document/8361887) [IEEE TAC '19]
 - [On LMI conditions to design observers for Lipschitz nonlinear systems](https://www.sciencedirect.com/science/article/abs/pii/S0005109812005651) (Automatica '13)
+- [Observer Design for Uniformly Observable Systems With Sampled Measurements](https://ieeexplore.ieee.org/abstract/document/6263276?casa_token=rWqIGdv79-cAAAAA:ooMx8VsN89culfopT9YwH-R_L2r5GqoiSw14vNxPaxfTObHT6nexfN0ejIvOw41HLaSLJWxs6A) [IEEE TAC '12]
 
 
 ### (Structured) Linear Systems
