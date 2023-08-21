@@ -34,6 +34,9 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 ## Control
 
+### Good ones
+- [Respect the unstable](https://ieeexplore.ieee.org/abstract/document/1213600) [IEEE CSM '03]
+
 ### sampled-data systems 
 - [Explicit computation of the sampling period in emulation of controllers for nonlinear sampled-data systems](https://ieeexplore.ieee.org/document/4796269) [IEEE TAC '09]
 
@@ -62,6 +65,7 @@ Persistent Excitation Assumptions](https://ieeexplore.ieee.org/document/8283714)
 ### (Structured) Linear Systems
 - [Generic properties and control of linear structured systems: a survey](https://www.sciencedirect.com/science/article/pii/S0005109803001043) [Automatica '03]
 - [The generic number of invariant zeros of a structured linear system](https://epubs.siam.org/doi/abs/10.1137/S0363012996310119) [SIAM 1999]
+- [Pole placement via static output feedback is NP-hard](https://ieeexplore.ieee.org/abstract/document/1299024) [IEEE TAC '04]
  
 ## Applied mathematics
 - [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf) [I. Markovsky, Signal processing, Elsevier 2007] 
