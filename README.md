@@ -25,6 +25,8 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 ### 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
 
+- [On the continuity of rotation representations in neural networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.html) [CVPR '19]
+
 ## Machine Learning 
 
 #Computational Learning Theory #Interpretability
