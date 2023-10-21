@@ -20,12 +20,16 @@ and on-manifold optimization](https://citeseerx.ist.psu.edu/viewdoc/download?doi
 for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 - [A comparison of transforms and quaternions in robotics](https://ieeexplore.ieee.org/document/12172?arnumber=12172)
 - [Lie theory in robotics](https://norlab.ulaval.ca/research/LieCheatsheet/)
-
+- 
 
 ### 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
 
 - [On the continuity of rotation representations in neural networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.html) [CVPR '19]
+
+###
+- [Characterizing the Uncertainty of Jointly Distributed Poses in the Lie Algebra]() [IEEE TRO '20]
+- [Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration With Rotating Earth]() [IEEE TRO '22]
 
 ## Machine Learning 
 
