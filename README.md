@@ -30,6 +30,7 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 ###
 - [Characterizing the Uncertainty of Jointly Distributed Poses in the Lie Algebra]() [IEEE TRO '20]
 - [Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration With Rotating Earth]() [IEEE TRO '22]
+- [Uncertainty estimation for data-driven visual odometry]() [IEEE TRO '20]
 
 ## Machine Learning 
 
