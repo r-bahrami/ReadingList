@@ -20,7 +20,7 @@ and on-manifold optimization](https://citeseerx.ist.psu.edu/viewdoc/download?doi
 for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 - [A comparison of transforms and quaternions in robotics](https://ieeexplore.ieee.org/document/12172?arnumber=12172)
 - [Lie theory in robotics](https://norlab.ulaval.ca/research/LieCheatsheet/)
-- 
+- [Representing attitude: Euler angles, unit quaternions, and rotation vectors](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5c0edc899359a69c3769da238491f93e7a2f6d6d)
 
 ### 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
