@@ -5,6 +5,7 @@ Table of Contents
 
 - [Robotics](#robotics)
 - [Machine Learning](#machine-learning)
+- [Computer Vision](#computer-vision)
 - [Control](#control)
 - [Applied mathematics](#applied-mathematics)
 - [LaTeX](#latex)
@@ -38,6 +39,10 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 - [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [Pedro Domingos, '12]
 - How to measure the similarity of ML models? [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j) [N. Papernot, ICLR '22]
+
+## Computer Vision 
+
+- [Least-Squares Fitting of Two 3-D Point Sets](https://web.archive.org/web/20180721184417id_/http://www.math.pku.edu.cn/teachers/yaoy/Fall2011/arun.pdf) [IEEE TPAMI 1987]
 
 ## Control
 
