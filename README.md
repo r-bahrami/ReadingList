@@ -44,7 +44,7 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 
 - [Least-Squares Fitting of Two 3-D Point Sets](https://web.archive.org/web/20180721184417id_/http://www.math.pku.edu.cn/teachers/yaoy/Fall2011/arun.pdf) [IEEE TPAMI 1987]
 -  [Riccati observers for the nonstationary PnP
-problem] (10.1109/TAC.2017.2726179) [IEEE TAC '17] 
+problem](10.1109/TAC.2017.2726179) [IEEE TAC '17] 
 
 ## Control
 
