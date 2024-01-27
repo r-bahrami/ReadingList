@@ -33,6 +33,9 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 - [Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration With Rotating Earth]() [IEEE TRO '22]
 - [Uncertainty estimation for data-driven visual odometry]() [IEEE TRO '20]
 
+###
+- [Robot-to-robot relative pose estimation from range measurements](https://ieeexplore.ieee.org/document/4671092) [IEEE TRO '08]
+
 ## Machine Learning 
 
 #Computational Learning Theory #Interpretability
