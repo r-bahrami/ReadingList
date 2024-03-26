@@ -45,7 +45,8 @@ for state estimation in robotics](https://arxiv.org/abs/1812.01537)
 - How to measure the similarity of ML models? [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j) [N. Papernot, ICLR '22]
 
 ## Computer Vision 
-
+- [Deep Two-View Structure-from-Motion Revisited](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Deep_Two-View_Structure-From-Motion_Revisited_CVPR_2021_paper.html?ref=https://githubhelp.com) [CVPR 2021]
+- [Structure-from-Motion Revisited (colmap)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html) [CVPR 2016]
 - [Least-Squares Fitting of Two 3-D Point Sets](https://web.archive.org/web/20180721184417id_/http://www.math.pku.edu.cn/teachers/yaoy/Fall2011/arun.pdf) [IEEE TPAMI 1987]
 -  [Riccati observers for the nonstationary PnP
 problem](10.1109/TAC.2017.2726179) [IEEE TAC '17] 
