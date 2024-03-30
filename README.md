@@ -7,6 +7,7 @@ Table of Contents
 - [Machine Learning](#machine-learning)
 - [Computer Vision](#computer-vision)
 - [Control](#control)
+- [Communication](#communication) 
 - [Applied mathematics](#applied-mathematics)
 - [LaTeX](#latex)
 
@@ -85,6 +86,11 @@ Persistent Excitation Assumptions](https://ieeexplore.ieee.org/document/8283714)
 - [Generic properties and control of linear structured systems: a survey](https://www.sciencedirect.com/science/article/pii/S0005109803001043) [Automatica '03]
 - [The generic number of invariant zeros of a structured linear system](https://epubs.siam.org/doi/abs/10.1137/S0363012996310119) [SIAM 1999]
 - [Pole placement via static output feedback is NP-hard](https://ieeexplore.ieee.org/abstract/document/1299024) [IEEE TAC '04]
+
+## Communication 
+- [A first-principles approach to understanding the Internet's router-level topology](https://dl.acm.org/doi/10.1145/1030194.1015470) [ACM 2004]
+- [A Manifold View of Connectivity in the Private Backbone Networks of Hyperscalers](https://dl.acm.org/doi/abs/10.1145/3604620)[ACM 2023]
+  
  
 ## Applied mathematics
 - [Overview of total least squares methods](http://eprints.epwp.eprints-hosting.org/id/eprint/89/1/tls_overview.pdf) [I. Markovsky, Signal processing, Elsevier 2007] 
